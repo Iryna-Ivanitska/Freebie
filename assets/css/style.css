@@ -10881,7 +10881,7 @@ textarea.form-control-lg {
 }
 
 .we-are {
-  background: url(/img/background-img.png) no-repeat center center;
+  background: url(img/background-img.png) no-repeat center center;
   height: 800px;
   background-size: contain;
 }
